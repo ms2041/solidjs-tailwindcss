@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import styles from './App.module.css';
 
 function App() {
@@ -6,7 +5,7 @@ function App() {
     <div class={styles.App}>
       <header class={styles.header}>
         <p>
-          Edit <code>src/App.jsx</code> and save to reload.
+          <code>src/App.jsx</code> it the main file. Edit and save to reload and see your changes.
         </p>
         <a
           class={styles.link}
